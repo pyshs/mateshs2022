@@ -8,3 +8,7 @@ Pour ceux.elles qui souhaiteraient exécuter le code :
 2. Télécharger le dépot (Icone en vert en haut à droite Code > Télécharger en zip) et décompresser
 3. Lancer Jupyter Notebook et ouvrir le fichier .ipynb avec l'arborescence du navigateur
 4. Penser à installer les bibliothèques nécessaires (pip install pandas matplotlib pyshs)
+
+Une autre solution est d'utiliser les services de Cloud de Google colab https://colab.research.google.com/ en important le dépot Github.
+
+:warning: GeoPandas peut poser certains soucis d'installation suivant les ordinateurs
